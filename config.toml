@@ -18,6 +18,8 @@ pygmentsCodefences = true
 
 # Missing translations will default to this content language
 defaultContentLanguage = "en"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 
 [params.info]
 description = "A Data Science Journey!"
@@ -105,4 +107,3 @@ languageName = "English"
 weight = 1
 
 # Ignore files
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

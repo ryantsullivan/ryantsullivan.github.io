@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Menus on Minimo</title>
-    <link>/tags/menus/</link>
-    <description>Recent content in Menus on Minimo</description>
+    <title>Menus on Ryan Sullivan</title>
+    <link>/ryan.tsullivan.co/tags/menus/</link>
+    <description>Recent content in Menus on Ryan Sullivan</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 27 Sep 2017 10:00:00 +0600</lastBuildDate>
     
-	<atom:link href="/tags/menus/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ryan.tsullivan.co/tags/menus/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Menus Setup Guide</title>
-      <link>/docs/menus/</link>
+      <link>/ryan.tsullivan.co/docs/menus/</link>
       <pubDate>Wed, 27 Sep 2017 10:00:00 +0600</pubDate>
       
-      <guid>/docs/menus/</guid>
+      <guid>/ryan.tsullivan.co/docs/menus/</guid>
       <description>Minimo has two menus.
  Main Menu Social Menu  Minimo Main Menu Main menu is located at the top of the site.
 Check Hugo&amp;rsquo;s Menus Documentation for information about managing this menu.

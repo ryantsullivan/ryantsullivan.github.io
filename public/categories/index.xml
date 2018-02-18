@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Minimo</title>
-    <link>/categories/</link>
-    <description>Recent content in Categories on Minimo</description>
+    <title>Categories on Ryan Sullivan</title>
+    <link>/ryan.tsullivan.co/categories/</link>
+    <description>Recent content in Categories on Ryan Sullivan</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/ryan.tsullivan.co/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Features</title>
-      <link>/categories/features/</link>
+      <link>/ryan.tsullivan.co/categories/features/</link>
       <pubDate>Wed, 07 Feb 2018 19:15:00 +0600</pubDate>
       
-      <guid>/categories/features/</guid>
+      <guid>/ryan.tsullivan.co/categories/features/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Others</title>
-      <link>/categories/others/</link>
+      <link>/ryan.tsullivan.co/categories/others/</link>
       <pubDate>Mon, 25 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>/categories/others/</guid>
+      <guid>/ryan.tsullivan.co/categories/others/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/categories/r/</link>
+      <link>/ryan.tsullivan.co/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/categories/r/</guid>
+      <guid>/ryan.tsullivan.co/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tutorial</title>
-      <link>/categories/tutorial/</link>
+      <link>/ryan.tsullivan.co/categories/tutorial/</link>
       <pubDate>Mon, 25 Sep 2017 06:00:00 +0600</pubDate>
       
-      <guid>/categories/tutorial/</guid>
+      <guid>/ryan.tsullivan.co/categories/tutorial/</guid>
       <description></description>
     </item>
     

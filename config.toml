@@ -5,8 +5,8 @@ copyright = ""
 
 theme = "minimo"
 
-disqusShortname = ""
-googleAnalytics = ""
+disqusShortname = "ryantsullivan"
+googleAnalytics = "UA-90582322-1"
 
 Paginate = 5
 preserveTaxonomyNames = true
@@ -22,7 +22,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [params.info]
-description = "A Data Science Journey!"
+description = "A Data Science Journey."
 title404 = "Nothing's here!"
 
 [params.assets]
@@ -33,9 +33,9 @@ gopher = "" # used in 404 template ( Generator: https://gopherize.me )
 
 [params.copyright]
 prefix = ""
-holder = "Ryan Sullivan"
+holder = "Ryan Sullivan."
 startYear = "2018"
-suffix = ""
+suffix = "Powered by Hugo using the Minimo Theme."
 
 [params.settings]
 # date & time format: https://golang.org/pkg/time/
@@ -89,12 +89,6 @@ tag = "tags"
 
 [permalinks]
 page = "/:slug/"
-
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
 
 [blackfriday]
 hrefTargetBlank = true

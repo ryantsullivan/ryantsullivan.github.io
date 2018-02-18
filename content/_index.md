@@ -3,5 +3,5 @@ title: Home
 menu: main
 weight: -270
 ---
-> Minimalism is not a lack of something. It’s simply the perfect amount of something.
-> — Nicholas Burroughs
+> This is the homepage and blog of Ryan Sullivan, Business Analyst at VSS-Southern Theatres, LLC.
+> For more about me, see [About](../about).

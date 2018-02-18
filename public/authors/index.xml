@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors on Ryan Sullivan</title>
-    <link>/ryan.tsullivan.co/authors/</link>
+    <link>/authors/</link>
     <description>Recent content in Authors on Ryan Sullivan</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="/ryan.tsullivan.co/authors/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Muniftanjim</title>
-      <link>/ryan.tsullivan.co/authors/muniftanjim/</link>
+      <link>/authors/muniftanjim/</link>
       <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
       
-      <guid>/ryan.tsullivan.co/authors/muniftanjim/</guid>
+      <guid>/authors/muniftanjim/</guid>
       <description></description>
     </item>
     

@@ -22,7 +22,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 
 [params.info]
-description = "A Data Science Journey."
+description = "A Data Science Journey"
 title404 = "Nothing's here!"
 
 [params.assets]

@@ -10,3 +10,5 @@ Mínimo is a Spanish word that roughly translate to Minimal.
 Minimo is a minimalist theme for Hugo.
 
 Minimo keeps the focus on your content and lets it shine!
+
+<i class="fab fa-500px"></i>

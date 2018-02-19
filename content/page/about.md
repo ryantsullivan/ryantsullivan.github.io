@@ -1,14 +1,12 @@
 ---
-title: About
-description: What does Minimo even means?!
+title: About Me
+description: Aspiring Data Scientist, and experienced Business Data Analyst with a demonstrated history of working in theatre exhibition and food & beverage.
 menu: main
 weight: -210
+comments: false
 ---
 
-Mínimo is a Spanish word that roughly translate to Minimal.
+<i class="fa fa-briefcase" aria-hidden="true"></i> Work Experience
 
-Minimo is a minimalist theme for Hugo.
+<i class="fa fa-graduation-cap" aria-hidden="true"></i> Education
 
-Minimo keeps the focus on your content and lets it shine!
-
-<i class="fab fa-500px"></i>
